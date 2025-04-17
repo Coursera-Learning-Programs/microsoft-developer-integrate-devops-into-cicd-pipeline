@@ -1,1 +1,0 @@
-# microsoft-developer-integrate-devops-into-cicd-pipeline
